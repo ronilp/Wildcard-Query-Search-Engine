@@ -1,0 +1,11 @@
+big 1
+bubble 3
+burst 3
+data 1,2,3
+future 1
+linkedin 3
+mining 3
+new 2
+oil 2
+predicts 3
+statistics 3
