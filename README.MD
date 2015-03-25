@@ -7,13 +7,15 @@ Required files for both parts are also provided.
 
 Both are in python 3 and to run them,
 
-Part 1:
+Part 1: Index Construction
+
 	1. You must have Dataset.txt and Stopwords.txt in your working directory.
 	2. Command to run : 
 		python 12629part1.py
 	3. 2 output files will be generated named InvertedIndex.txt and PermutermIndex.txt
 
-Part 2:
+Part 2: Querying
+
 	1. You must have Dataset.txt, InvertedIndex.txt and PermutermIndex.txt in your working directory.
 	2. Command to run : 
 		python 12629part2.py
